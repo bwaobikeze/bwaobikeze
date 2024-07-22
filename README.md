@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Backend developer from Houston Texas</h3>
 <img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="400">
 
-- 🌱 I’m currently learning **Dart,Flutter App Development**
-
 - 📫 How to reach me **Brian.waobikeze@gmail.com**
 
 - ⚡ Fun fact **I love Playing video games**
